@@ -66,7 +66,8 @@
     "1m": "https://raw.githubusercontent.com/MK07/Torn-Cracking-Helper/main/dictionaries/1m.txt",
     "100k": "https://raw.githubusercontent.com/MK07/Torn-Cracking-Helper/main/dictionaries/100k.txt",
     "10k": "https://raw.githubusercontent.com/MK07/Torn-Cracking-Helper/main/dictionaries/10k.txt",
-    "1k": "https://raw.githubusercontent.com/MK07/Torn-Cracking-Helper/main/dictionaries/1k.txt"
+    "1k": "https://raw.githubusercontent.com/MK07/Torn-Cracking-Helper/main/dictionaries/1k.txt",
+    "Custom": "https://raw.githubusercontent.com/MK07/Torn-Cracking-Helper/main/dictionaries/Custom.txt"
     };
     // =====================================================================================================================================================================
 
